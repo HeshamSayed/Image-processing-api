@@ -89,7 +89,7 @@ Install dependencies
 Start the dev server
 
 ```bash
-  npm run dev
+  npm start
 ```
 
 ## Running Tests
